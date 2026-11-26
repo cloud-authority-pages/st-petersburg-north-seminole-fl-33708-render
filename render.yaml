@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: st-petersburg-north-seminole-fl-33708
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
