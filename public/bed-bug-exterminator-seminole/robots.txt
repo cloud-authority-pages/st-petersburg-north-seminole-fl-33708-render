@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://st-petersburg-north-seminole-fl-33708.onrender.com/sitemap.xml
+Sitemap: https://st-petersburg-north-seminole-fl-33708.onrender.com/bed-bug-exterminator-seminole/sitemap.xml
